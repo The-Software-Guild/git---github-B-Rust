@@ -1,15 +1,18 @@
+package com.mthree.javabasics;
 
 import java.util.*;
+
+// I was also using this class to mess around
+// with the debugger 
 
 public class adder {
 	public static void main(String [] args) {
 
-		String str = "look at this value";
+/*		String str = "look at this value";
 		double dub = 65.73225;
-		int i = 0;
 		char ch = 'c';
-		
-		
+*/		int i = 0;
+		System.out.println();
 		System.out.println("Line 1");
 		System.out.println("Line 2");
 		System.out.println("Line 3");
@@ -18,6 +21,8 @@ public class adder {
 		System.out.println("Line 5");
 		System.out.println("Line 6");
 		i = 5;
+		System.out.println("i" + i);
+		
 
 		
 		int sum = 0, op1 = 0, op2 = 0;
