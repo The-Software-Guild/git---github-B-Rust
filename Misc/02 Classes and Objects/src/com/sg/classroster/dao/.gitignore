@@ -1,2 +1,5 @@
 /ClassRosterDaoFileImpl.class
 /ClassRosterDao.class
+/ClassRosterDaoException.class
+/ClassRosterAuditDao.class
+/ClassRosterAuditDaoFileImpl.class
